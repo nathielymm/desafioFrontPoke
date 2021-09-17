@@ -6,7 +6,7 @@
     Listar Pokémons
     Filtrar Pokémons por nome.
 
-### Pré-requisitos e como rodar a aplicação/testes
+### Pré-requisitos e como rodar a aplicação
 Para rodar o projeto localmente, é necessário possuir o node instalado.
 Faça o download do projeto e vá até a pasta raiz, rode os comandos:
     "npm install" 
