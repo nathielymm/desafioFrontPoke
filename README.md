@@ -2,7 +2,10 @@
 
     Esse projeto apresenta uma listagem de 151 pokémons, recuperados a partir da API PokeApi. O projeto foi construído utilizando ReactJS. Os dados obtidos foram: imagem, tipo, nome e level. Os pokemons podem ser filtrados pelo nome.
 
+
 ## Features
+![image](https://user-images.githubusercontent.com/90937897/133864653-085b8ba3-5d9c-4ba4-bf74-601bb0abdd8d.png)
+
     Listar Pokémons
     Filtrar Pokémons por nome.
 
