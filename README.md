@@ -7,20 +7,20 @@
 ## Features
 ![image](https://user-images.githubusercontent.com/90937897/133864653-085b8ba3-5d9c-4ba4-bf74-601bb0abdd8d.png)
 
-    Listar Pokémons
-    Filtrar Pokémons por nome.
+    Listar Pokémons.  
+    Filtrar Pokémons por nome.  
 
 ### Pré-requisitos e como rodar a aplicação
 Para rodar o projeto localmente, é necessário possuir o node e o npm instalado.
-Faça o download do projeto e vá até a pasta raiz, rode os comandos:
-    "npm install" 
-    "npm start"
+Faça o download do projeto e vá até a pasta raiz, rode os comandos:   
+    "npm install"   
+    "npm start"   
 
 #### Tecnologias utilizadas
-Para a construção do projeto foram utilizadas as seguintes tecnologias:
-    React Js
-    Axios
-    React Routers
+Para a construção do projeto foram utilizadas as seguintes tecnologias:  
+    React Js  
+    Axios  
+    React Routers  
 
 ##### Autor
 Nathiely Macedo.
