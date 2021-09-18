@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/desafioFrontPoke/static/css/main.d0eede8a.chunk.css",
-    "main.js": "/desafioFrontPoke/static/js/main.f1c3efe3.chunk.js",
-    "main.js.map": "/desafioFrontPoke/static/js/main.f1c3efe3.chunk.js.map",
+    "main.js": "/desafioFrontPoke/static/js/main.de2993c0.chunk.js",
+    "main.js.map": "/desafioFrontPoke/static/js/main.de2993c0.chunk.js.map",
     "runtime-main.js": "/desafioFrontPoke/static/js/runtime-main.6d7dcda2.js",
     "runtime-main.js.map": "/desafioFrontPoke/static/js/runtime-main.6d7dcda2.js.map",
-    "static/js/2.b78a72c6.chunk.js": "/desafioFrontPoke/static/js/2.b78a72c6.chunk.js",
-    "static/js/2.b78a72c6.chunk.js.map": "/desafioFrontPoke/static/js/2.b78a72c6.chunk.js.map",
+    "static/js/2.23c2b309.chunk.js": "/desafioFrontPoke/static/js/2.23c2b309.chunk.js",
+    "static/js/2.23c2b309.chunk.js.map": "/desafioFrontPoke/static/js/2.23c2b309.chunk.js.map",
     "static/js/3.892dde2e.chunk.js": "/desafioFrontPoke/static/js/3.892dde2e.chunk.js",
     "static/js/3.892dde2e.chunk.js.map": "/desafioFrontPoke/static/js/3.892dde2e.chunk.js.map",
     "index.html": "/desafioFrontPoke/index.html",
     "static/css/main.d0eede8a.chunk.css.map": "/desafioFrontPoke/static/css/main.d0eede8a.chunk.css.map",
-    "static/js/2.b78a72c6.chunk.js.LICENSE.txt": "/desafioFrontPoke/static/js/2.b78a72c6.chunk.js.LICENSE.txt"
+    "static/js/2.23c2b309.chunk.js.LICENSE.txt": "/desafioFrontPoke/static/js/2.23c2b309.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6d7dcda2.js",
-    "static/js/2.b78a72c6.chunk.js",
+    "static/js/2.23c2b309.chunk.js",
     "static/css/main.d0eede8a.chunk.css",
-    "static/js/main.f1c3efe3.chunk.js"
+    "static/js/main.de2993c0.chunk.js"
   ]
 }
